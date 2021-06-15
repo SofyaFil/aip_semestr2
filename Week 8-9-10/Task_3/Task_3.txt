@@ -1,0 +1,5 @@
+Enter numbers: Answer: 0.333333
+Answer: 0.5
+Answer: 0.611111
+Answer: 0.694444
+Answer: 0.761111
